@@ -1,3 +1,5 @@
+await $`git commit -m "build: GitHub Pages"`;
+
 # `reese.codes`
 
 > 🕹️ [Reese's](https://github.com/reeseschultz) website about programming. 🕹️
